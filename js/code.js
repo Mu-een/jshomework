@@ -26,4 +26,4 @@ let version5 = (`${year}.${month + 1}.${day}`);
 console.log(version5);
 
 // The new Date() constructor returns a new Date object
-// month is indexed at 0. The value starts at 0. Example: 7 will be August instead of 8s
+// month is indexed at 0. The value starts at 0. Example: 7 will be August instead of 8
